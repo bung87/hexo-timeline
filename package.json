@@ -8,8 +8,7 @@
     "postversion": "git push && git push --tags && git push"
   },
   "dependencies": {
-    "mdline": "^1.0.2",
-    "mocha": "*"
+    "mdline": "^1.0.2"
   },
   "devDependencies": {}
 }
